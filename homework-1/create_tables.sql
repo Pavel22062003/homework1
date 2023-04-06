@@ -3,6 +3,7 @@ CREATE TABLE employees
 (
 	first_name varchar(100),
 	last_name varchar(100),
+	title varchar(100),
 	birth_date date,
 	notes text
 );
